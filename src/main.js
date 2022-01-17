@@ -14,7 +14,7 @@ import 'vue-img-inputer/dist/index.css'
 import VueGtag from 'vue-gtag'
 
 Vue.use(VueGtag, {
-  config: { id: 'G-RGZPVLXF0W' }
+  config: { id: 'G-9L7PH0CPDT' }
 })
 
 Vue.component('ImgInputer', ImgInputer)
